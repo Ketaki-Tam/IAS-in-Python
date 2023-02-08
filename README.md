@@ -39,7 +39,7 @@ Instructions used -\
 
 The program I have tried to implement is a program to find the mean deviation of 5 numbers (1,2,3,4,5). The whole input to the function is hardcoded and does not require user input.\\
 
-Assembly code for the program -\ 
+Assembly code for the program - \ 
 load M(16) | add M(17)\
 add M(18) | add M(19)\
 add M(20) | stor M(21)\
